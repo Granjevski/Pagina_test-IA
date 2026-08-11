@@ -13,7 +13,7 @@ const imagens = [
 "img/Loky_1.png",
 "img/nebulosa_1.png",
 "img/rocket.png",
-"img/thor_1.png"
+"img/thor.png"
 ];
 
 const board = document.getElementById("gameBoard");
